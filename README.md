@@ -26,13 +26,12 @@ Clone this repository or download the script directly onto your fresh Debian ins
 
 ```bash
 # Download the script
-wget https://githubusercontent.com
+ 
 
 # Make it executable
-chmod +x thinkpad-testing.sh
-
+ 
 # Run it with sudo (or as root)
-sudo ./thinkpad-testing.sh
+ 
 ```
 
 Once the script finishes execution, reboot your machine to log into your brand new graphical environment:
